@@ -1,0 +1,23 @@
+.actor-detail {
+    color: white;   
+    background-color: #332f2f; 
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  .actor-detail h1,
+  .actor-detail h2,
+  .actor-detail p {
+    margin-bottom: 15px;
+  }
+  
+
+  .actor-detail a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .actor-detail a:hover {
+    text-decoration: underline;
+  }
+  

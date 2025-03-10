@@ -1,0 +1,15 @@
+.film-detail {
+    color: white; 
+    padding: 20px;
+  }
+  
+  .film-detail h1 {
+    margin-bottom: 20px;
+  }
+  
+  .film-detail p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  

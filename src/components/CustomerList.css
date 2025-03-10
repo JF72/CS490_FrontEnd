@@ -1,0 +1,61 @@
+.customer-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .customer-link:hover {
+    text-decoration: underline;
+  }
+  
+  .edit-button {
+    background-color: transparent;
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: box-shadow 0.3s, background-color 0.3s;
+  }
+  
+  .edit-button:hover {
+    box-shadow: 0 0 8px green;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .delete-button {
+    background-color: transparent;
+    border: 1px solid #f44336;
+    color: #f44336;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: box-shadow 0.3s, background-color 0.3s;
+  }
+  
+  .delete-button:hover {
+    box-shadow: 0 0 8px red;
+    background-color: #f44336;
+    color: white;
+  }
+  .add-customer-button-container {
+    margin-bottom: 20px;
+  }
+  
+  .add-customer-button {
+    background-color: #4c62ab;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .add-customer-button:hover {
+    background-color: #273c5a;
+  }
+  .head{
+    color: white;
+  }

@@ -1,0 +1,39 @@
+.top-films-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #000;
+  }
+  
+  .top-films-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .film-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .film-card {
+    background-color: #eaad53; 
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .film-link {
+    text-decoration: none;
+    color: #1B2A4B;
+  }
+  
+  .film-link:hover {
+    text-decoration: underline;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  

@@ -1,0 +1,58 @@
+.film-search-container {
+  color: white; 
+  padding: 20px;
+}
+
+.film-search-container h1 {
+  margin-bottom: 20px;
+}
+
+.film-search-container input {
+  font-size: 1rem;
+  padding: 8px;
+  border: none;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.film-search-container button {
+  font-size: 1rem;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.film-search-container button:first-of-type {
+  background-color: #4d74ca;
+  color: white;
+}
+
+.film-search-container button:first-of-type:hover {
+  background-color: #273c5a;
+}
+
+.film-search-container .top-films-button {
+  background-color: #ffffff; 
+  color: #1B2A4B;
+  border: 1px solid #1B2A4B;
+  margin-top: 20px;
+}
+
+.film-search-container .top-films-button:hover {
+  background-color: #f0f0f0;
+}
+
+.film-search-container a {
+  color: white;
+  text-decoration: none;
+}
+
+.film-search-container a:hover {
+  text-decoration: underline;
+}
+
+.film-search-container ul li {
+    margin-bottom: 15px;
+  }

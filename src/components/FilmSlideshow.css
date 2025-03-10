@@ -1,0 +1,18 @@
+.film-slideshow {
+    max-width: 600px; 
+    margin: 20px auto;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .caption {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
